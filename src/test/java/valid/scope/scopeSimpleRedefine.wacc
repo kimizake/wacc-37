@@ -1,0 +1,17 @@
+# variable scoping test that redefines a variable
+
+# Output:
+# true
+# 12
+
+# Program:
+
+begin
+  int x = 12 ;
+  int k = 2 ;
+  begin
+    bool x = true
+  end ;
+  exit x
+end
+

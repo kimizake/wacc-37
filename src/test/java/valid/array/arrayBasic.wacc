@@ -1,0 +1,14 @@
+# basic array declaration and assignment
+
+# Output:
+# #empty#
+
+# Program:
+
+begin
+  int y = 2 ;
+  int[] a = [0] ;
+  int x = 2;
+  a[0] = 1
+end
+

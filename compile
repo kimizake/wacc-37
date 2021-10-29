@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp "lib/antlr-4.7-complete.jar;lib/*" -jar target/wacc_37-1.0-SNAPSHOT-jar-with-dependencies.jar "$*"

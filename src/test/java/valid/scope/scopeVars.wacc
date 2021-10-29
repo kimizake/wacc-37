@@ -1,0 +1,20 @@
+# simple variable scoping test
+
+# Output:
+# 2
+# 4
+# 2
+
+# Program:
+
+begin
+  int x = 2 ;
+  begin
+    int y = 4 ;
+    exit x
+    # x
+  end ;
+  # x
+  exit x
+end
+

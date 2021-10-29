@@ -1,0 +1,12 @@
+#ignore generated binary files, auto-generated ANTLR code and intellj files
+bin
+src/main/java/group37/antlr
+target
+.idea
+wacc37.iml
+
+#ignore Java class files
+*.class
+
+#ignore Assembly files
+*.s
